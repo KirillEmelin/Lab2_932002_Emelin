@@ -1,0 +1,11 @@
+C:\Users\incog\OneDrive\Рабочий стол\Новая папка\immod.lab2-pudov.932001-main\la\Lab2_Emelin\bin\Debug\Lab2_Emelin.exe.config
+C:\Users\incog\OneDrive\Рабочий стол\Новая папка\immod.lab2-pudov.932001-main\la\Lab2_Emelin\bin\Debug\Lab2_Emelin.exe
+C:\Users\incog\OneDrive\Рабочий стол\Новая папка\immod.lab2-pudov.932001-main\la\Lab2_Emelin\bin\Debug\Lab2_Emelin.pdb
+C:\Users\incog\OneDrive\Рабочий стол\Новая папка\immod.lab2-pudov.932001-main\la\Lab2_Emelin\obj\Debug\Lab2_Emelin.csproj.AssemblyReference.cache
+C:\Users\incog\OneDrive\Рабочий стол\Новая папка\immod.lab2-pudov.932001-main\la\Lab2_Emelin\obj\Debug\Lab2_Emelin.csproj.SuggestedBindingRedirects.cache
+C:\Users\incog\OneDrive\Рабочий стол\Новая папка\immod.lab2-pudov.932001-main\la\Lab2_Emelin\obj\Debug\Lab2_Emelin.Form1.resources
+C:\Users\incog\OneDrive\Рабочий стол\Новая папка\immod.lab2-pudov.932001-main\la\Lab2_Emelin\obj\Debug\Lab2_Emelin.Properties.Resources.resources
+C:\Users\incog\OneDrive\Рабочий стол\Новая папка\immod.lab2-pudov.932001-main\la\Lab2_Emelin\obj\Debug\Lab2_Emelin.csproj.GenerateResource.cache
+C:\Users\incog\OneDrive\Рабочий стол\Новая папка\immod.lab2-pudov.932001-main\la\Lab2_Emelin\obj\Debug\Lab2_Emelin.csproj.CoreCompileInputs.cache
+C:\Users\incog\OneDrive\Рабочий стол\Новая папка\immod.lab2-pudov.932001-main\la\Lab2_Emelin\obj\Debug\Lab2_Emelin.exe
+C:\Users\incog\OneDrive\Рабочий стол\Новая папка\immod.lab2-pudov.932001-main\la\Lab2_Emelin\obj\Debug\Lab2_Emelin.pdb
